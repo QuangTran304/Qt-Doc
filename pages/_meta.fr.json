@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "another": "Une autre page",
+  "advanced": "Avancé (un dossier)",
+  "about": {
+    "title": "À propos",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
